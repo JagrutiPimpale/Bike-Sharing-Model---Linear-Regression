@@ -26,11 +26,12 @@ The dataset being used is a sizable dataset on daily bike demand across the Amer
 - The model can be used by management to understand how demand for shared bikes vary with different features and, in turn, to modify the business strategy to meet demand levels and satisfy customer expectations.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Python - version 3.8.5
+- Pandas - version 1.2.4
+- NumPy - version 1.20.2
+- Matplotlib - version 3.4.2
+- Seaborn - version 0.11.1
+- Scikit-learn - version 0.24.2
 
 ## Acknowledgements
 This project was based on the Bike Sharing dataset provided by the consulting company contracted by BoomBikes. 
